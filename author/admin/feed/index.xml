@@ -9,8 +9,8 @@
 
 <channel>
 	<title>admin &#8211; StephenHernandez-Portfolio</title>
-	<atom:link href="https://ph3n1993.github.io/Portfolio_StephenHernandez/author/admin/feed/" rel="self" type="application/rss+xml" />
-	<link>https://ph3n1993.github.io/Portfolio_StephenHernandez</link>
+	<atom:link href="https://ph3n1993.github.io/StephenHernandez/author/admin/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ph3n1993.github.io/StephenHernandez</link>
 	<description>Affordable, Quick, Reliable Service, Services you can trust. Quality you can afford.</description>
 	<lastBuildDate>Fri, 07 May 2021 05:49:03 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=5.7.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>https://ph3n1993.github.io/Portfolio_StephenHernandez/2021/05/07/hello-world/</link>
-					<comments>https://ph3n1993.github.io/Portfolio_StephenHernandez/2021/05/07/hello-world/#comments</comments>
+		<link>https://ph3n1993.github.io/StephenHernandez/2021/05/07/hello-world/</link>
+					<comments>https://ph3n1993.github.io/StephenHernandez/2021/05/07/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 07 May 2021 05:49:03 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://ph3n1993.github.io/Portfolio_StephenHernandez/?p=1</guid>
+		<guid isPermaLink="false">https://ph3n1993.github.io/StephenHernandez/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://ph3n1993.github.io/Portfolio_StephenHernandez/2021/05/07/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ph3n1993.github.io/StephenHernandez/2021/05/07/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
