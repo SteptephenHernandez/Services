@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for StephenHernandez-Portfolio	</title>
-	<atom:link href="https://ph3n1993.github.io/Portfolio_StephenHernandez/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://ph3n1993.github.io/Portfolio_StephenHernandez</link>
+	Comments on: Hello world!	</title>
+	<atom:link href="https://ph3n1993.github.io/Portfolio_StephenHernandez/2021/05/07/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ph3n1993.github.io/Portfolio_StephenHernandez/2021/05/07/hello-world/</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Fri, 07 May 2021 05:49:03 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.7.1</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
+		By: A WordPress Commenter		</title>
 		<link>https://ph3n1993.github.io/Portfolio_StephenHernandez/2021/05/07/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
